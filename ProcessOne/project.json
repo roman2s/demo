@@ -3,7 +3,8 @@
   "description": "Regular Process (demo)",
   "main": "Main.xaml",
   "dependencies": {
-    "DemoLibrary": "[1.0.5]"
+    "DemoLibrary": "[1.0.5]",
+    "UiPath.Mail.Activities": "[1.10.2-preview]"
   },
   "webServices": [],
   "entitiesStores": [],
