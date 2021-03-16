@@ -1,10 +1,12 @@
 {
-  "name": "ProcessOne",
+  "name": "ProcessTwo",
   "description": "Regular Process (demo)",
   "main": "Main.xaml",
   "dependencies": {
-    "DemoLibrary": "[1.0.5]",
-    "UiPath.Mail.Activities": "[1.10.2-preview]"
+    "UiPath.Excel.Activities": "[2.10.2-preview]",
+    "UiPath.Mail.Activities": "[1.10.2-preview]",
+    "UiPath.System.Activities": "[21.2.1-preview]",
+    "UiPath.UIAutomation.Activities": "[21.2.0-preview]"
   },
   "webServices": [],
   "entitiesStores": [],
@@ -41,7 +43,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "54632465-8ffb-44e8-83a9-ee4a1ae83403",
+      "uniqueId": "21987bb6-5530-465c-8eed-4eb0217f5b2a",
       "input": [],
       "output": []
     }
